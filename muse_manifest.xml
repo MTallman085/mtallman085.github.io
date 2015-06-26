@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1435298602713">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1435299137325">
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
     <file name="master_a-master.css" crc="40978171" ref="the-corrupt:short-stories:the-forgotten:the-shade:index:about-the-author:the-shade-trilogy"/>
@@ -21,15 +21,15 @@
     <file name="bg.jpg" crc="467382066" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
     <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
     <file name="facebook.jpg" crc="4126251770" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
-    <file name="goodreads.jpg" crc="4100324968" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="goodreads.jpg" crc="4118739232" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
     <file name="mtallman.jpg" crc="79124281" ref="about-the-author"/>
     <file name="the_shade.jpg" crc="368210158" ref="the-shade"/>
   </folder>
-  <file name="index.html" crc="469380264" mt="1435298601300" redirect="true"/>
-  <file name="the-shade-trilogy.html" crc="3810975704" mt="1435298601300" redirect="true"/>
-  <file name="about-the-author.html" crc="140265404" mt="1435298601301" redirect="true"/>
-  <file name="the-shade.html" crc="125179327" mt="1435298601301" redirect="true"/>
-  <file name="the-corrupt.html" crc="484422075" mt="1435298601302" redirect="true"/>
-  <file name="the-forgotten.html" crc="459879740" mt="1435298601302" redirect="true"/>
-  <file name="short-stories.html" crc="314882226" mt="1435298601303" redirect="true"/>
+  <file name="index.html" crc="469380264" mt="1435284645310" redirect="true"/>
+  <file name="the-shade-trilogy.html" crc="3810975704" mt="1435284645310" redirect="true"/>
+  <file name="about-the-author.html" crc="140265404" mt="1435284645311" redirect="true"/>
+  <file name="the-shade.html" crc="125179327" mt="1435285604915" redirect="true"/>
+  <file name="the-corrupt.html" crc="484422075" mt="1435284645313" redirect="true"/>
+  <file name="the-forgotten.html" crc="459879740" mt="1435284645314" redirect="true"/>
+  <file name="short-stories.html" crc="314882226" mt="1435284645314" redirect="true"/>
 </manifest>
