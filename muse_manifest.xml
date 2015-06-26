@@ -1,14 +1,14 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1435299403171">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1435346420680">
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="master_a-master.css" crc="40978171" ref="the-corrupt:short-stories:the-forgotten:the-shade:index:about-the-author:the-shade-trilogy"/>
-    <file name="the-corrupt.css" crc="386901789" ref="the-corrupt"/>
-    <file name="short-stories.css" crc="386901789" ref="short-stories"/>
-    <file name="the-forgotten.css" crc="386901789" ref="the-forgotten"/>
-    <file name="the-shade.css" crc="98231915" ref="the-shade"/>
-    <file name="index.css" crc="386901789" ref="index"/>
-    <file name="about-the-author.css" crc="4164988968" ref="about-the-author"/>
-    <file name="the-shade-trilogy.css" crc="386901789" ref="the-shade-trilogy"/>
+    <file name="master_a-master.css" crc="4272759779" ref="the-corrupt:short-stories:the-forgotten:the-shade:index:about-the-author:the-shade-trilogy"/>
+    <file name="the-corrupt.css" crc="3834801919" ref="the-corrupt"/>
+    <file name="short-stories.css" crc="3834801919" ref="short-stories"/>
+    <file name="the-forgotten.css" crc="3834801919" ref="the-forgotten"/>
+    <file name="the-shade.css" crc="4212548787" ref="the-shade"/>
+    <file name="index.css" crc="3834801919" ref="index"/>
+    <file name="about-the-author.css" crc="4254280159" ref="about-the-author"/>
+    <file name="the-shade-trilogy.css" crc="3834801919" ref="the-shade-trilogy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
@@ -16,20 +16,38 @@
     <file name="jquery.musemenu.js" crc="4009181048" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
     <file name="jquery.watch.js" crc="172956391" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="pie.js" crc="3827607177" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
   </folder>
   <folder name="images">
     <file name="bg.jpg" crc="467382066" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
-    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
-    <file name="facebook.jpg" crc="4126251770" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
-    <file name="goodreads.jpg" crc="4118739232" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
     <file name="mtallman.jpg" crc="79124281" ref="about-the-author"/>
     <file name="the_shade.jpg" crc="368210158" ref="the-shade"/>
+    <file name="goodreads_icon_30x30.png" crc="4152650088" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="fb-f-logo__blue_29.png" crc="3805039690" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="menuu240-sprite.png" crc="299903653" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="blank.gif" crc="4208392903" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u253.png" crc="381179544" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u253-r.png" crc="244091730" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u253-a.png" crc="381179544" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u245.png" crc="462392226" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u245-r.png" crc="4173761667" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u245-a.png" crc="462392226" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u243-sprite.png" crc="3953697798" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u335-4.png" crc="419951490" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u347-4.png" crc="514748639" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u356-4.png" crc="90600695" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u316.png" crc="349791195" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u316-r.png" crc="315214892" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u316-a.png" crc="349791195" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u278.png" crc="4264967083" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u278-r.png" crc="376568641" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
+    <file name="u278-a.png" crc="4264967083" ref="index:the-shade-trilogy:about-the-author:the-shade:the-corrupt:the-forgotten:short-stories"/>
   </folder>
-  <file name="index.html" crc="469380264" mt="1435284645310" redirect="true"/>
-  <file name="the-shade-trilogy.html" crc="3810975704" mt="1435284645310" redirect="true"/>
-  <file name="about-the-author.html" crc="140265404" mt="1435284645311" redirect="true"/>
-  <file name="the-shade.html" crc="125179327" mt="1435285604915" redirect="true"/>
-  <file name="the-corrupt.html" crc="484422075" mt="1435284645313" redirect="true"/>
-  <file name="the-forgotten.html" crc="459879740" mt="1435284645314" redirect="true"/>
-  <file name="short-stories.html" crc="314882226" mt="1435284645314" redirect="true"/>
+  <file name="index.html" crc="403300284" mt="1435346295091" redirect="true"/>
+  <file name="the-shade-trilogy.html" crc="250057161" mt="1435346295092" redirect="true"/>
+  <file name="about-the-author.html" crc="3760022086" mt="1435346295092" redirect="true"/>
+  <file name="the-shade.html" crc="131858628" mt="1435346295093" redirect="true"/>
+  <file name="the-corrupt.html" crc="384770448" mt="1435346295094" redirect="true"/>
+  <file name="the-forgotten.html" crc="4281411652" mt="1435346295094" redirect="true"/>
+  <file name="short-stories.html" crc="4073995417" mt="1435346295095" redirect="true"/>
 </manifest>
