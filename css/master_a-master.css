@@ -123,32 +123,25 @@
 	background-color: transparent;
 }
 
-._u243.f3s_top
+#u243
 {
-	background-image: url("../images/u243-sprite.png");
-	overflow: hidden;
-	background-position: left top;
-}
-
-._u243.f3s_mid
-{
-	background-image: url("../images/u243-sprite.png");
-	overflow: visible;
-	background-position: -273px top;
-}
-
-._u243.f3s_bot
-{
-	background-image: url("../images/u243-sprite.png");
-	overflow: visible;
-	background-position: -546px top;
+	-pie-box-shadow: none;
+	-moz-box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 8px 8px 10px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #BFBFBF;
+	background-color: rgba(127, 127, 127, 0.5);
+	position: relative;
+	-pie-background: rgba(127, 127, 127, 0.5);
 }
 
 #u333
 {
 	border-width: 1px;
 	border-style: solid;
-	border-color: #777777;
+	border-color: #000000;
 	background-color: transparent;
 	position: relative;
 }
@@ -162,7 +155,7 @@
 {
 	border-width: 1px;
 	border-style: solid;
-	border-color: #777777;
+	border-color: #000000;
 	background-color: transparent;
 	position: relative;
 }
@@ -176,7 +169,7 @@
 {
 	border-width: 1px;
 	border-style: solid;
-	border-color: #777777;
+	border-color: #000000;
 	background-color: transparent;
 	position: relative;
 }
@@ -191,7 +184,7 @@
 	background-color: #666666;
 }
 
-#u480,#u479,#u243,#u335-4,#u347-4,#u356-4
+#u480,#u479,#u335-4,#u347-4,#u356-4
 {
 	position: relative;
 }
