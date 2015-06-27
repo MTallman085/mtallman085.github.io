@@ -1,69 +1,67 @@
 .version.the_shade /* version checker */
 {
-	color: #0000FB;
-	background-color: #1664B3;
+	color: #000004;
+	background-color: #EF99CE;
 }
 
 .html
 {
-	background: #FFFFFF url("../images/bg.jpg") repeat center center scroll;
+	background-color: #000000;
 }
 
 #page
 {
 	z-index: 1;
-	width: 910px;
-	min-height: 618px;
+	width: 1021px;
+	min-height: 659.85px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 19px 75px 62px;
+	padding: 20px 19px 19.149999999999977px 20px;
 }
 
 #ppu459
 {
 	width: 0.01px;
-	margin-left: 55px;
 }
 
 #pu459
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-left: 173px;
+	margin-left: 170px;
 }
 
 #u459
 {
-	z-index: 2;
+	z-index: 3;
 	width: 150px;
 	margin-right: -10000px;
-	margin-top: 1px;
 }
 
 #u460
 {
-	z-index: 55;
+	z-index: 56;
 	width: 30px;
 	margin-right: -10000px;
 }
 
 #u466-4
 {
-	z-index: 57;
+	z-index: 58;
 	width: 120px;
 	min-height: 7px;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 6px;
 	left: 30px;
 }
 
 #u480
 {
-	z-index: 62;
+	z-index: 63;
 	width: 150px;
 	height: 30px;
 	margin-right: -10000px;
@@ -71,33 +69,32 @@
 
 #u449
 {
-	z-index: 3;
+	z-index: 4;
 	width: 150px;
 	padding-bottom: 1px;
 	margin-right: -10000px;
-	margin-top: 1px;
 }
 
 #u440
 {
-	z-index: 49;
+	z-index: 50;
 	width: 29px;
 	margin-right: -10000px;
 }
 
 #u450-4
 {
-	z-index: 51;
+	z-index: 52;
 	width: 121px;
 	min-height: 15px;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 6px;
 	left: 29px;
 }
 
 #u479
 {
-	z-index: 61;
+	z-index: 62;
 	width: 150px;
 	height: 30px;
 	margin-right: -10000px;
@@ -112,39 +109,37 @@
 	filter: alpha(opacity=1);
 }
 
+#u481
+{
+	z-index: 2;
+	width: 1020px;
+	padding-bottom: 2px;
+	margin-top: 1px;
+}
+
+#u482
+{
+	z-index: 64;
+	width: 101px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 63px;
+}
+
 #menuu240
 {
-	z-index: 4;
+	z-index: 5;
 	width: 806px;
-	margin-left: 55px;
-	margin-top: 7px;
-}
-
-._menuu240.f3s_top
-{
-	width: 806px;
-	height: 26px;
-}
-
-._menuu240.f3s_mid
-{
-	width: 806px;
-	min-height: 5px;
-}
-
-._menuu240.f3s_bot
-{
-	width: 806px;
-	height: 11px;
+	margin-right: -10000px;
+	margin-top: 61px;
+	left: 214px;
 }
 
 #u248
 {
 	width: 107px;
 	min-height: 42px;
-	margin-bottom: -37px;
 	margin-right: -10000px;
-	top: -26px;
 }
 
 #u251
@@ -180,9 +175,7 @@
 {
 	width: 258px;
 	min-height: 42px;
-	margin-bottom: -37px;
 	margin-right: -10000px;
-	top: -26px;
 	left: 109px;
 }
 
@@ -343,9 +336,7 @@
 {
 	width: 191px;
 	min-height: 42px;
-	margin-bottom: -37px;
 	margin-right: -10000px;
-	top: -26px;
 	left: 369px;
 }
 
@@ -375,9 +366,7 @@
 {
 	width: 244px;
 	min-height: 42px;
-	margin-bottom: -37px;
 	margin-right: -10000px;
-	top: -26px;
 	left: 562px;
 }
 
@@ -401,15 +390,24 @@
 	left: 14px;
 }
 
-#pu326
+#u494
 {
-	width: 0.01px;
-	margin-top: 43px;
+	z-index: 67;
+	width: 1019px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #BFBFBF;
+	background-color: rgba(127, 127, 127, 0.5);
+	padding-bottom: 16px;
+	margin-top: 2px;
+	position: relative;
+	-pie-background: rgba(127, 127, 127, 0.5);
 }
 
 #u326
 {
-	z-index: 63;
+	z-index: 68;
 	width: 313px;
 	-pie-box-shadow: none;
 	-moz-box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5)/* glow */,
@@ -421,25 +419,29 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 15px;
+	left: 76px;
 }
 
-#u359-4
+#u495-4
 {
-	z-index: 65;
+	z-index: 75;
 	width: 520px;
 	min-height: 474px;
-	background-color: #F9F4E8;
-	font-size: 24px;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.5);
 	line-height: 29px;
-	color: #821C31;
+	font-size: 24px;
+	color: #000000;
 	font-family: Times, Times New Roman, Georgia, serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 18px;
-	left: 390px;
+	margin-top: 28px;
+	left: 465px;
+	-pie-background: rgba(255, 255, 255, 0.5);
 }
 
-#u359-2
+#u495-2
 {
 	padding-right: 10px;
 	padding-left: 10px;
@@ -447,18 +449,25 @@
 
 #u438-5
 {
-	z-index: 69;
+	z-index: 70;
 	width: 731px;
 	min-height: 116px;
 	background-color: #F9F4E8;
 	color: #8F3345;
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
 	text-align: center;
 	font-family: Times, Times New Roman, Georgia, serif;
-	margin-left: 90px;
-	margin-top: 25px;
+	margin-left: 145px;
+	margin-top: 26px;
 	position: relative;
+}
+
+#u488
+{
+	z-index: 66;
+	width: 1019px;
+	height: 41px;
 }
 
 body
