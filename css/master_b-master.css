@@ -1,6 +1,16 @@
+#u1180:active
+{
+	background: url("../images/u1180-m.png") no-repeat 0px 0px;
+}
+
 #u1415:active
 {
 	background: url("../images/u1415-m.png") no-repeat 0px 0px;
+}
+
+#u1178:active
+{
+	background: url("../images/u1178-m.png") no-repeat 0px 0px;
 }
 
 #u1159-4
@@ -21,9 +31,56 @@
 	background: url("../images/u1415.png") no-repeat 9px 9px;
 }
 
-#u1178,#u1180,#u1182
+#u1178
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u1178.png") no-repeat 9px 9px;
+}
+
+#u1180
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u1180.png") no-repeat 9px 9px;
+}
+
+#u1182
 {
 	background-color: transparent;
+	position: relative;
+}
+
+#u1182:active
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+	-webkit-box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+	box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+}
+
+#u1458
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #BFBFBF;
+	background-color: rgba(127, 127, 127, 0.5);
+	-moz-border-radius: 0px 0px 0px 10px ;
+	-webkit-border-radius: 0px 0px 0px 10px ;
+	-khtml-border-radius: 0px 0px 0px 10px ;
+	border-radius: 0px 0px 0px 10px ;
+	position: relative;
+	-pie-background: rgba(127, 127, 127, 0.5);
+}
+
+#u1459-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: double-pica-small-caps, serif;
+	font-weight: 400;
 	position: relative;
 }
 

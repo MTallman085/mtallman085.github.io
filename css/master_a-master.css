@@ -1,3 +1,164 @@
+#u1526:active
+{
+	background: url("../images/u1526-m.png") no-repeat 0px 0px;
+}
+
+#u1524:active
+{
+	background: url("../images/u1524-m.png") no-repeat 0px 0px;
+}
+
+#u1497,#u1498
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1501
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #BFBFBF;
+	background-color: rgba(127, 127, 127, 0.5);
+	position: relative;
+	-pie-background: rgba(127, 127, 127, 0.5);
+}
+
+#menuu1502
+{
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1511
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 1px 0px 0px;
+}
+
+#u1513-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1511:active #u1513-4 p
+{
+	color: #AF272D;
+	visibility: inherit;
+}
+
+#u1520
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 1px 0px 0px;
+}
+
+#u1521-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1520:active #u1521-4 p
+{
+	color: #AF272D;
+	visibility: inherit;
+}
+
+#u1510,#u1517,#u1503,#u1504
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1505-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1504:active #u1505-4 p
+{
+	color: #AF272D;
+	visibility: inherit;
+}
+
+#u1511.MuseMenuActive #u1513-4 p,#u1520.MuseMenuActive #u1521-4 p,#u1504.MuseMenuActive #u1505-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u1499
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1499:active
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+	-webkit-box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+	box-shadow: 0px 0px 8px 2px rgba(255, 255, 255, 0.5);
+}
+
+#u1524
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u1524.png") no-repeat 9px 9px;
+}
+
+#u1526
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u1526.png") no-repeat 9px 9px;
+}
+
+#u1528
+{
+	background-color: transparent;
+	position: relative;
+}
+
 #u488
 {
 	border-width: 1px;
