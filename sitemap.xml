@@ -1,176 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://matt-tallman.github.io/images/mtallman.jpg</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/the_shade.jpg</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://matt-tallman.github.io/images/goodreads_icon_30x30.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/fb-f-logo__blue_29.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/blank.gif</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u253.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u253-r.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u253-a.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u245.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u245-r.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u245-a.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u335-4.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u347-4.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u356-4.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u316.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u316-r.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u316-a.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u278.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u278-r.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/u278-a.png</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/icon.png</loc>
-    <lastmod>2015-06-27</lastmod>
+    <lastmod>2015-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matt-tallman.github.io/images/ts%20fb%20cover.jpg</loc>
-    <lastmod>2015-06-27</lastmod>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/fb-f-logo__blue_50.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/mail.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u1049-sprite.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/matt-crop.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u981-sprite.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u1050-sprite.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/front%205x8%20300ppi.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/thecorruptfront%205x8%20300ppi.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/front300dpi.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u1047-sprite.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u1037-sprite.png</loc>
+    <lastmod>2015-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matt-tallman.github.io/index.html</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/the-shade-trilogy.html</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/about-the-author.html</loc>
-    <lastmod>2015-06-27</lastmod>
+    <lastmod>2015-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matt-tallman.github.io/the-shade.html</loc>
-    <lastmod>2015-06-27</lastmod>
+    <lastmod>2015-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matt-tallman.github.io/the-corrupt.html</loc>
-    <lastmod>2015-06-27</lastmod>
+    <lastmod>2015-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matt-tallman.github.io/the-forgotten.html</loc>
-    <lastmod>2015-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/short-stories.html</loc>
-    <lastmod>2015-06-27</lastmod>
+    <lastmod>2015-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
