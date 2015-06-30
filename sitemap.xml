@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://matt-tallman.github.io/images/goodreads_icon_30x30.png</loc>
-    <lastmod>2015-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://matt-tallman.github.io/images/ts%20fb%20cover.jpg</loc>
-    <lastmod>2015-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://matt-tallman.github.io/images/fb-f-logo__blue_50.png</loc>
     <lastmod>2015-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -284,6 +272,30 @@
   </url>
   <url>
     <loc>http://matt-tallman.github.io/images/u1180-m.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u897.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u897-m.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u895.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u895-m.png</loc>
     <lastmod>2015-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
