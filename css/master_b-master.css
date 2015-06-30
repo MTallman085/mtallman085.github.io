@@ -1,3 +1,8 @@
+#u1415:active
+{
+	background: url("../images/u1415-m.png") no-repeat 0px 0px;
+}
+
 #u1159-4
 {
 	background-color: transparent;
@@ -9,12 +14,14 @@
 	position: relative;
 }
 
-#u1160
+#u1415
 {
+	vertical-align: top;
 	position: relative;
+	background: url("../images/u1415.png") no-repeat 9px 9px;
 }
 
-#u1166,#u1178,#u1180,#u1182
+#u1178,#u1180,#u1182
 {
 	background-color: transparent;
 	position: relative;

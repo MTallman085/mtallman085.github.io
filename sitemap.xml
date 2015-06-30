@@ -103,12 +103,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://matt-tallman.github.io/images/back.png</loc>
-    <lastmod>2015-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://matt-tallman.github.io/images/u1165-sprite.png</loc>
     <lastmod>2015-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -230,6 +224,18 @@
   </url>
   <url>
     <loc>http://matt-tallman.github.io/images/fullsleevewithbleed300dpi60x44.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u1415.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u1415-m.png</loc>
     <lastmod>2015-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,7 +1,7 @@
 .version.the_shade /* version checker */
 {
-	color: #0000E9;
-	background-color: #E788C6;
+	color: #00000E;
+	background-color: #5A22CE;
 }
 
 .html
@@ -36,22 +36,15 @@
 	position: relative;
 }
 
-#pu1166
+#pu1159-4
 {
 	width: 0.01px;
 	margin-left: 1px;
 }
 
-#u1166
-{
-	z-index: 7;
-	width: 110px;
-	margin-right: -10000px;
-}
-
 #u1159-4
 {
-	z-index: 9;
+	z-index: 7;
 	width: 62px;
 	min-height: 16px;
 	margin-right: -10000px;
@@ -59,20 +52,15 @@
 	left: 33px;
 }
 
-#u1160
+#u1415
 {
-	z-index: 13;
-	width: 110px;
-	height: 50px;
+	z-index: 12;
+	height: 68px;
+	width: 128px;
+	margin-bottom: -9px;
 	margin-right: -10000px;
-}
-
-.ie #u1160
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
+	margin-top: -9px;
+	left: -9px;
 }
 
 #u1178
