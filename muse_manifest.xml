@@ -1,11 +1,12 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1435640055042">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1435694975247">
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="master_a-master.css" crc="3870366586" ref="index"/>
-    <file name="the-corrupt.css" crc="4124694200" ref="the-corrupt"/>
-    <file name="the-forgotten.css" crc="4124694200" ref="the-forgotten"/>
-    <file name="the-shade.css" crc="4112523222" ref="the-shade"/>
-    <file name="index.css" crc="80221687" ref="index"/>
+    <file name="master_a-master.css" crc="4213895321" ref="index:the-forgotten:the-shade:the-corrupt"/>
+    <file name="the-corrupt.css" crc="255749897" ref="the-corrupt"/>
+    <file name="the-forgotten.css" crc="4146523637" ref="the-forgotten"/>
+    <file name="the-shade.css" crc="3924265158" ref="the-shade"/>
+    <file name="index.css" crc="86156934" ref="index"/>
+    <file name="master_b-master.css" crc="14300186" ref="the-forgotten:the-shade:the-corrupt"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:the-shade:the-corrupt:the-forgotten"/>
@@ -13,25 +14,55 @@
     <file name="jquery.musemenu.js" crc="4009181048" ref="index"/>
     <file name="jquery.watch.js" crc="172956391" ref="index:the-shade:the-corrupt:the-forgotten"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:the-shade:the-corrupt:the-forgotten"/>
-    <file name="pie.js" crc="3827607177" ref="index:the-shade"/>
+    <file name="pie.js" crc="3827607177" ref="index:the-shade:the-corrupt:the-forgotten"/>
+    <file name="webpro.js" crc="420478120" ref="the-shade:the-corrupt:the-forgotten"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="the-shade:the-corrupt:the-forgotten"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="the-shade:the-corrupt:the-forgotten"/>
+    <file name="touchswipe.js" crc="60020316" ref="the-shade:the-corrupt:the-forgotten"/>
   </folder>
   <folder name="images">
-    <file name="goodreads_icon_30x30.png" crc="4152650088" ref="index"/>
-    <file name="ts fb cover.jpg" crc="67479843" ref="the-shade"/>
-    <file name="fb-f-logo__blue_50.png" crc="117875754" ref="index"/>
-    <file name="mail.jpg" crc="302226383" ref="index"/>
+    <file name="goodreads_icon_30x30.png" crc="4152650088" ref="index:the-shade:the-corrupt:the-forgotten"/>
+    <file name="ts fb cover.jpg" crc="4246652764" ref="the-shade"/>
+    <file name="fb-f-logo__blue_50.png" crc="117875754" ref="index:the-shade:the-corrupt:the-forgotten"/>
+    <file name="mail.jpg" crc="302226383" ref="index:the-shade:the-corrupt:the-forgotten"/>
     <file name="u1049-sprite.png" crc="3785161811" ref="index"/>
     <file name="matt-crop.jpg" crc="489155440" ref="index"/>
     <file name="u981-sprite.png" crc="4142906016" ref="index"/>
     <file name="u1050-sprite.png" crc="4249995430" ref="index"/>
-    <file name="front 5x8 300ppi.jpg" crc="328526079" ref="index"/>
-    <file name="thecorruptfront 5x8 300ppi.jpg" crc="3953413028" ref="index"/>
-    <file name="front300dpi.jpg" crc="3871402703" ref="index"/>
+    <file name="front 5x8 300ppi.jpg" crc="4051340799" ref="the-shade"/>
+    <file name="thecorruptfront 5x8 300ppi.jpg" crc="4073368480" ref="the-corrupt"/>
+    <file name="front300dpi.jpg" crc="3758793786" ref="the-forgotten"/>
     <file name="u1047-sprite.png" crc="4204146315" ref="index"/>
     <file name="u1037-sprite.png" crc="3924938582" ref="index"/>
+    <file name="matt-logo.png" crc="414498765" ref="index"/>
+    <file name="front 5x8 300ppi191x305.jpg" crc="4054762250" ref="index"/>
+    <file name="thecorruptfront 5x8 300ppi191x306.jpg" crc="3990021081" ref="index"/>
+    <file name="front300dpi191x305.jpg" crc="119039610" ref="index"/>
+    <file name="back.png" crc="361459363" ref="the-shade:the-corrupt:the-forgotten"/>
+    <file name="u1165-sprite.png" crc="4083322310" ref="the-shade:the-corrupt:the-forgotten"/>
+    <file name="blank.gif" crc="4208392903" ref="the-shade:the-corrupt:the-forgotten"/>
+    <file name="shade-u1108.png" crc="56604684" ref="the-shade"/>
+    <file name="full sleeve without bleed area 300ppi - copy.jpg" crc="4141448727" ref="the-shade"/>
+    <file name="shade45x45.png" crc="4232261795" ref="the-shade"/>
+    <file name="front 5x8 300ppi29x45.jpg" crc="35682058" ref="the-shade"/>
+    <file name="full sleeve without bleed area 300ppi - copy60x46.jpg" crc="3828900633" ref="the-shade"/>
+    <file name="loading.gif" crc="3815509949" ref="the-shade:the-corrupt:the-forgotten"/>
+    <file name="amazon-logo_grey.png" crc="3872141510" ref="the-shade:the-corrupt:the-forgotten"/>
+    <file name="title.jpg" crc="3879075256" ref="the-corrupt"/>
+    <file name="corrupt-u1267.png" crc="344521978" ref="the-corrupt"/>
+    <file name="thecorruptback 5x8 300ppi.jpg" crc="294592596" ref="the-corrupt"/>
+    <file name="corrupt45x45.png" crc="4281180654" ref="the-corrupt"/>
+    <file name="thecorruptfront 5x8 300ppi29x45.jpg" crc="23881289" ref="the-corrupt"/>
+    <file name="thecorruptback 5x8 300ppi29x45.jpg" crc="217741634" ref="the-corrupt"/>
+    <file name="forgotten_long.jpg" crc="4158523859" ref="the-forgotten"/>
+    <file name="forgotten-u1348.png" crc="8911961" ref="the-forgotten"/>
+    <file name="fullsleevewithbleed300dpi.jpg" crc="3942736484" ref="the-forgotten"/>
+    <file name="forgotten45x45.png" crc="3934218692" ref="the-forgotten"/>
+    <file name="front300dpi29x45.jpg" crc="3885729277" ref="the-forgotten"/>
+    <file name="fullsleevewithbleed300dpi60x44.jpg" crc="3793743975" ref="the-forgotten"/>
   </folder>
-  <file name="index.html" crc="200526656" mt="1435639483165" redirect="true"/>
-  <file name="the-shade.html" crc="387641021" mt="1435634764700" redirect="true"/>
-  <file name="the-corrupt.html" crc="4204416560" mt="1435634764701" redirect="false"/>
-  <file name="the-forgotten.html" crc="3794143937" mt="1435634764701" redirect="false"/>
+  <file name="index.html" crc="3933710448" mt="1435694955274" redirect="true"/>
+  <file name="the-shade.html" crc="119568688" mt="1435694794163" redirect="true"/>
+  <file name="the-corrupt.html" crc="4045378274" mt="1435694794164" redirect="true"/>
+  <file name="the-forgotten.html" crc="3834728692" mt="1435694794165" redirect="true"/>
 </manifest>

@@ -79,6 +79,162 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://matt-tallman.github.io/images/matt-logo.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/front%205x8%20300ppi191x305.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/thecorruptfront%205x8%20300ppi191x306.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/front300dpi191x305.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/back.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/u1165-sprite.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/blank.gif</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/shade-u1108.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/full%20sleeve%20without%20bleed%20area%20300ppi%20-%20copy.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/shade45x45.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/front%205x8%20300ppi29x45.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/full%20sleeve%20without%20bleed%20area%20300ppi%20-%20copy60x46.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/loading.gif</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/amazon-logo_grey.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/title.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/corrupt-u1267.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/thecorruptback%205x8%20300ppi.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/corrupt45x45.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/thecorruptfront%205x8%20300ppi29x45.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/thecorruptback%205x8%20300ppi29x45.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/forgotten_long.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/forgotten-u1348.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/fullsleevewithbleed300dpi.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/forgotten45x45.png</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/front300dpi29x45.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://matt-tallman.github.io/images/fullsleevewithbleed300dpi60x44.jpg</loc>
+    <lastmod>2015-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://matt-tallman.github.io/index.html</loc>
     <lastmod>2015-06-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,19 +242,19 @@
   </url>
   <url>
     <loc>http://matt-tallman.github.io/the-shade.html</loc>
-    <lastmod>2015-06-29</lastmod>
+    <lastmod>2015-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matt-tallman.github.io/the-corrupt.html</loc>
-    <lastmod>2015-06-29</lastmod>
+    <lastmod>2015-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://matt-tallman.github.io/the-forgotten.html</loc>
-    <lastmod>2015-06-29</lastmod>
+    <lastmod>2015-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
