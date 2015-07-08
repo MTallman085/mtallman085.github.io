@@ -1,7 +1,7 @@
 .version.the_corrupt /* version checker */
 {
-	color: #00001B;
-	background-color: #4B7ED9;
+	color: #000000;
+	background-color: #3B6303;
 }
 
 .html
@@ -25,7 +25,7 @@
 
 #u1400
 {
-	z-index: 37;
+	z-index: 39;
 	width: 390px;
 	background-color: transparent;
 	margin-left: 316px;
@@ -62,7 +62,7 @@
 
 #u1178
 {
-	z-index: 40;
+	z-index: 42;
 	height: 58px;
 	width: 58px;
 	margin-bottom: -4px;
@@ -73,7 +73,7 @@
 
 #u1180
 {
-	z-index: 43;
+	z-index: 46;
 	height: 58px;
 	width: 58px;
 	margin-bottom: -4px;
@@ -84,7 +84,7 @@
 
 #u1182
 {
-	z-index: 45;
+	z-index: 49;
 	width: 39px;
 	margin-right: -10000px;
 	margin-top: 6px;
@@ -105,7 +105,7 @@
 
 #u1219
 {
-	z-index: 14;
+	z-index: 18;
 	width: 490px;
 	-pie-box-shadow: none;
 	-moz-box-shadow: 0px 0px 10px 3px rgba(255, 255, 255, 0.5);
@@ -146,7 +146,7 @@
 
 #u1220
 {
-	z-index: 15;
+	z-index: 19;
 	width: 1019px;
 	border-width: 1px;
 	border-style: solid;
@@ -162,7 +162,7 @@
 
 #u1292-4
 {
-	z-index: 33;
+	z-index: 35;
 	width: 490px;
 	min-height: 493px;
 	background-color: transparent;
@@ -185,7 +185,7 @@
 
 #slideshowu1222
 {
-	z-index: 16;
+	z-index: 20;
 	width: 0.01px;
 	height: 532px;
 	position: relative;
@@ -204,12 +204,12 @@
 
 #u1234popup
 {
-	z-index: 17;
+	z-index: 21;
 }
 
 #u1267
 {
-	z-index: 18;
+	z-index: 22;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -9px;
@@ -219,7 +219,7 @@
 
 #u1239
 {
-	z-index: 20;
+	z-index: 24;
 	width: 282px;
 	height: 451px;
 	border-style: none;
@@ -234,7 +234,7 @@
 
 #u1282
 {
-	z-index: 22;
+	z-index: 26;
 	width: 282px;
 	height: 451px;
 	border-style: none;
@@ -268,12 +268,12 @@
 
 #u1241popup
 {
-	z-index: 24;
+	z-index: 28;
 }
 
 #u1270
 {
-	z-index: 25;
+	z-index: 29;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -292,7 +292,7 @@
 
 #u1246
 {
-	z-index: 27;
+	z-index: 31;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -305,7 +305,7 @@
 
 #u1285
 {
-	z-index: 29;
+	z-index: 33;
 	width: 60px;
 	height: 45px;
 	border-color: #6B6B6B;
@@ -339,27 +339,28 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#u1248
+#u1534
 {
-	z-index: 31;
-	width: 207px;
-	background-color: transparent;
-	margin-left: 407px;
-	margin-top: 5px;
-	position: relative;
+	z-index: 16;
+	height: 118px;
+	width: 225px;
+	margin-left: 398px;
+	top: -4px;
+	margin-bottom: -4px;
 }
 
 #u1458
 {
-	z-index: 9;
+	z-index: 10;
 	width: 1020px;
 	padding-bottom: 33px;
-	margin-top: 5px;
+	top: -4px;
+	margin-bottom: -4px;
 }
 
 #u1459-4
 {
-	z-index: 10;
+	z-index: 11;
 	width: 190px;
 	min-height: 13px;
 	margin-right: -10000px;

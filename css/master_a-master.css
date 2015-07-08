@@ -1,13 +1,3 @@
-#u1526:active
-{
-	background: url("../images/u1526-m.png") no-repeat 0px 0px;
-}
-
-#u1524:active
-{
-	background: url("../images/u1524-m.png") no-repeat 0px 0px;
-}
-
 #u1497,#u1498
 {
 	border-style: none;
@@ -47,17 +37,23 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #C8C8C8;
 	line-height: 22px;
-	color: #FFFFFF;
 	font-size: 18px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
+#u1511:hover #u1513-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
 #u1511:active #u1513-4 p
 {
-	color: #AF272D;
+	color: #FFFFFF;
 	visibility: inherit;
 }
 
@@ -75,17 +71,23 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #C8C8C8;
 	line-height: 22px;
-	color: #FFFFFF;
 	font-size: 18px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
+#u1520:hover #u1521-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
 #u1520:active #u1521-4 p
 {
-	color: #AF272D;
+	color: #FFFFFF;
 	visibility: inherit;
 }
 
@@ -100,23 +102,29 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #C8C8C8;
 	line-height: 22px;
-	color: #FFFFFF;
 	font-size: 18px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
+#u1504:hover #u1505-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
 #u1504:active #u1505-4 p
 {
-	color: #AF272D;
+	color: #FFFFFF;
 	visibility: inherit;
 }
 
 #u1511.MuseMenuActive #u1513-4 p,#u1520.MuseMenuActive #u1521-4 p,#u1504.MuseMenuActive #u1505-4 p
 {
-	color: #FFFFFF;
+	color: #C8C8C8;
 	visibility: inherit;
 }
 
@@ -146,11 +154,31 @@
 	background: url("../images/u1524.png") no-repeat 9px 9px;
 }
 
+#u1524:hover
+{
+	background: url("../images/u1524-r.png") no-repeat 0px 0px;
+}
+
+#u1524:active
+{
+	background: url("../images/u1524-m.png") no-repeat 0px 0px;
+}
+
 #u1526
 {
 	vertical-align: top;
 	position: relative;
 	background: url("../images/u1526.png") no-repeat 9px 9px;
+}
+
+#u1526:hover
+{
+	background: url("../images/u1526-r.png") no-repeat 0px 0px;
+}
+
+#u1526:active
+{
+	background: url("../images/u1526-m.png") no-repeat 0px 0px;
 }
 
 #u1528
